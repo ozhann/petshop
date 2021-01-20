@@ -8,7 +8,7 @@ There are also additional feautes where users can sort products by their price, 
 
 ## This project hostes on Netlify available on below link
 
-Netlify:
+Netlify: https://petshopberlin.netlify.app/
 
 ### `npm start`
 
