@@ -6,7 +6,7 @@ Project aims to provide e-commerce interface which users can display products, d
 
 There are also additional feautes where users can sort products by their price, search them by theie name and change quantities on the shopping cart page.
 
-## This project hostes on Netlify available on below link
+## This project hosted on Netlify available on below link
 
 Netlify: https://petshopberlin.netlify.app/
 
