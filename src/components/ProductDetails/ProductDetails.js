@@ -5,8 +5,6 @@ import './productDetails.css';
 const ProductDetails = ({ location, addItem }) => {
   const { product } = location.state;
 
-  console.log('subtitle', product);
-
   return (
     <div>
       <div className="product-details-page">
