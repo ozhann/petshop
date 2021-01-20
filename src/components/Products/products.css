@@ -1,0 +1,10 @@
+.search-bar-container {
+  display: flex;
+  align-content: space-between;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 40%;
+}

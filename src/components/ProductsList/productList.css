@@ -1,0 +1,43 @@
+.product-card {
+  padding: 2%;
+  flex-grow: 1;
+  flex-basis: 20%;
+  display: flex;
+  flex-direction: column;
+  max-width: 20%;
+}
+
+.product-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.product-info {
+  margin-top: auto;
+  text-decoration: none;
+}
+
+.product-image img {
+  max-width: 100%;
+}
+
+.product-info h5 {
+  margin: 0.5rem;
+}
+
+.card-links {
+  display: flex;
+  flex-direction: column;
+}
+
+.ribbonText {
+  color: green;
+  margin: 16px 0;
+  font-size: 0.9rem;
+}
+
+.price {
+  display: flex;
+  font-size: 1rem;
+  justify-content: center;
+}

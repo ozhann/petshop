@@ -1,0 +1,26 @@
+.search-bar {
+  border-radius: 5px;
+}
+.search-bar-container button {
+  color: white;
+  background-color: grey;
+  font-family: Josefin Sans;
+  font-size: 1.5rem;
+  padding: 3px;
+  align-self: center;
+  margin: 20px;
+  cursor: pointer;
+  box-shadow: 10px 10px 14px 1px rgba(00, 00, 00, 0.2);
+}
+.search-for-products input {
+  font-family: Josefin Sans;
+  width: 300px;
+}
+.search-for-products {
+  display: flex;
+  align-content: space-between;
+  margin-top: 20px;
+}
+.search-for-products h3 {
+  margin: 10px 10px;
+}

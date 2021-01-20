@@ -1,0 +1,18 @@
+.plusminus {
+  color: white;
+  background-color: grey;
+  font-family: Josefin Sans;
+  font-size: 1rem;
+  margin: 1rem;
+}
+
+.image-cart {
+  height: 100px;
+}
+
+.cart-title {
+  display: flex;
+  margin-top: 2rem;
+  text-overflow: ellipsis;
+  padding-right: 30px;
+}
